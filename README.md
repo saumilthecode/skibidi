@@ -71,7 +71,7 @@ import type {
 
 export const identity: Identity = {
   name: "Tim Witzdam",
-  logo: "/logo.webp",
+  logo: "/logo.jpeg",
   email: "tim@witzdam.com",
 };
 
@@ -163,7 +163,7 @@ Facere quibusdam reiciendis, distinctio sunt praesentium error accusantium conse
         title: "Software Developer",
         company: {
           name: "Freelance",
-          image: "/logo.webp",
+          image: "/logo.jpeg",
           url: "https://github.com/TimWitzdam",
         },
         date: "2021 - Present",
@@ -172,7 +172,7 @@ Facere quibusdam reiciendis, distinctio sunt praesentium error accusantium conse
         title: "Software Developer",
         company: {
           name: "Freelance",
-          image: "/logo.webp",
+          image: "/logo.jpeg",
           url: "https://github.com/TimWitzdam",
         },
         date: "2019 - 2021",
