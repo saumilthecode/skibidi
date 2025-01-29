@@ -1,3 +1,5 @@
+my personal portfolio website. very work in progress. i lost motivation since i realised i cant do funny line graphs in astro :p
+
 <div align="center">
     <h1 align="center">Minimal portfolio template for Astro</a></h1>
     <p align="center">Open source minimalistic portfolio template created with <a href="https://astro.build/" target="_blank">Astro</a> and <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>. Design inspired by <a href="https://www.b-r.io/" target="_blank">Brian Ruiz</a> </p>
